@@ -20,6 +20,7 @@ public class GitTest {
         System.out.println("hello zheng!");
         System.out.println("hello 江敏婕!");
         System.out.println("hello 郑海清!");
+        System.out.println("hello 更新!");
         
     }
 }
